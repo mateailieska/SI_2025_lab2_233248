@@ -3,7 +3,8 @@
 ## Matea Ilieska 233248
 
 ### **Control Flow Graph - CFG**
-![image](https://github.com/user-attachments/assets/7537a07a-4698-4d1e-8b77-57df528df6b7)
+![image](https://github.com/user-attachments/assets/75ec73f0-78ad-4099-b666-4674fb6fecf9)
+
 
 
 ### **Цикломатска комплексност**
